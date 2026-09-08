@@ -30,10 +30,8 @@ nav_order: 1
 * **PT OPORDs**
   * Will upload biweekly, Please review it before each PT. | [View SPT OPORDs ](https://drive.google.com/drive/folders/1eE71CVFnl-2pe-Q04vJnNEHvwHuZRk-r?usp=sharing)
 
-* **Website Changelog -> Summer Updates**
-  * | [FIX] Chatbot now retrieves Google Drive from SPT and LLAB folders correctly. Just prompt "What are we doing for LLAB this week?" as soon as the Slack announcement goes out! Fixed other bugs.
-  
-  * | [NEW] Added uniform fitting appointments. |
+* **Website Changelog**
+  * | [[WARNING] Standby for chatbot giving you content for LLAB + SPT, new folders being made. Chatbot will not give accurate results for now. Do not ask it what are we doing for SPT/LLAB!]
 
 
 ## Calendar
@@ -80,5 +78,5 @@ nav_order: 1
 
 ---
 
-*Last updated: 2nd, Sep 2026*
+*Last updated: 8th, Sep 2026*
 *Website Accountability: C/Chen*
