@@ -23,7 +23,7 @@ nav_order: 1
 
 
 
-* **LLab OPORDs**
+* **LLAB OPORDs**
   * Will upload biweekly, around Wed/Thu. Please review it before LLab. | [View LLAB OPORDs ](https://drive.google.com/drive/folders/14fdc2qNvM17RsbF73LUUXgR2c1usnXOC?usp=sharing)
 
 
@@ -31,7 +31,8 @@ nav_order: 1
   * Will upload biweekly, Please review it before each PT. | [View SPT OPORDs ](https://drive.google.com/drive/folders/1eE71CVFnl-2pe-Q04vJnNEHvwHuZRk-r?usp=sharing)
 
 * **Website Changelog**
-  * | [[WARNING] Standby for chatbot giving you content for LLAB + SPT, new folders being made. Chatbot will not give accurate results for now. Do not ask it what are we doing for SPT/LLAB!]
+  * | [[NEW] New Org Chart in Detachment Resources]  
+  * | [[BUG FIX] Chatbot is up and running in regards to retrieving PT and LLAB opords! Try "What's for Friday LLAB?"]
 
 
 ## Calendar
