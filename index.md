@@ -31,8 +31,8 @@ nav_order: 1
   * Will upload biweekly, Please review it before each PT. | [View SPT OPORDs ](https://drive.google.com/drive/folders/1eE71CVFnl-2pe-Q04vJnNEHvwHuZRk-r?usp=sharing)
 
 * **Website Changelog**
-  * | [[NEW] New Org Chart in Detachment Resources]  
-  * | [[BUG FIX] Chatbot is up and running in regards to retrieving PT and LLAB opords! Try "What's for Friday LLAB?"]
+  * | [NEW] New Org Chart in Detachment Resources
+  * | [BUG FIX] Chatbot is up and running in regards to retrieving PT and LLAB opords! Try "What's for Friday LLAB?"
 
 
 ## Calendar
