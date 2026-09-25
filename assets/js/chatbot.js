@@ -31,6 +31,26 @@ const sendButton   = document.getElementById("d085-chat-send");
 const messageList  = document.getElementById("d085-chat-messages");
 
 
+// ─── OPORD FRESHNESS DISCLAIMER ────────────────────────────────────────────────
+// Static banner reminding users that a newly posted OPORD isn't picked up
+// instantly — there's a delay while Drive notifies the backend and it
+// re-fetches. Shown once, always visible above the message list.
+
+const disclaimerBar = document.createElement("div");
+disclaimerBar.id = "d085-disclaimer-bar";
+disclaimerBar.textContent =
+  "Note: newly posted LLAB/PT OPORDs may take up to 10 minutes to appear in chatbot answers.";
+disclaimerBar.style.cssText = [
+  "font-size:11px",
+  "text-align:center",
+  "padding:4px 12px",
+  "background:#fff8e1",
+  "color:#8a6d3b",
+  "border-bottom:1px solid #f0e0b0",
+].join(";");
+messageList.before(disclaimerBar);
+
+
 // ─── QUOTA BAR ────────────────────────────────────────────────────────────────
 // A thin bar injected above the input row to show how many messages remain today.
 
