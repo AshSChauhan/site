@@ -7,7 +7,7 @@ nav_order: 13
 # Wing Chain of Command
 <img src="{{ '/assets/images/fa-26-org-chart.png' | relative_url }}" alt="Wing Chain of Command Org Chart" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em;">
 
-# Chain of Command [WIP]
+# Chain of Command
 <!--This is an embed link to canva-->
 <div style="position: relative; width: 100%; height: 0; padding-top: 50.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
