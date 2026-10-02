@@ -32,6 +32,7 @@ nav_order: 1
 
 * **Website Changelog**
   * | [NEW] New Org Chart in Detachment Resources
+  * | [NEW] OPLAN is attached onto website
   * | [BUG FIX] Chatbot is up and running in regards to retrieving PT and LLAB opords! Try "What's for Friday LLAB?"
 
 
