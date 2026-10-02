@@ -79,5 +79,5 @@ nav_order: 1
 
 ---
 
-*Last updated: 22nd, Sep 2026*
+*Last updated: 1st, Oct 2026*
 *Website Accountability: C/Chen, C/Chauhan*
