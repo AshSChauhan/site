@@ -12,7 +12,17 @@ has_children: true
 
 - [Weight Gym Rules and Lifting Safety Guidelines](https://drive.google.com/drive/folders/1NKU7ZDF763Du-9FZdujlHmcHqQWZhtKP){: .btn .btn-outline .fs-3 }
 
+- [Detachment OPLAN](https://docs.google.com/document/d/1cKmSH4yKTQjfAMwSpaIvem1L74NP_Ziv6elAi-AUXx0/edit?usp=sharing){: .btn .btn-outline .fs-3 }
 
+## Detachment OPLAN
+
+
+<iframe
+  src="https://docs.google.com/document/d/1cKmSH4yKTQjfAMwSpaIvem1L74NP_Ziv6elAi-AUXx0/preview"
+  width="100%"
+  height="1000"
+  style="border: none;">
+</iframe>
 
 ## Resources
 
